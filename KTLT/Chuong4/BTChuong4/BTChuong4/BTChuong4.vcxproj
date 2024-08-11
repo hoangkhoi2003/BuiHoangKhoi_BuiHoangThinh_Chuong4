@@ -142,6 +142,12 @@
     <ClCompile Include="Bai13_Trang30.cpp">
       <BufferSecurityCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</BufferSecurityCheck>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+<<<<<<< HEAD
+    </ClCompile>
+    <ClCompile Include="Bai14_Trang30.cpp">
+      <BufferSecurityCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</BufferSecurityCheck>
+=======
+>>>>>>> 87c1c6c9c9c2f83cd9f77e0de60b3c7c4764709a
     </ClCompile>
     <ClCompile Include="Bai15_Trang30.cpp">
       <BufferSecurityCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</BufferSecurityCheck>

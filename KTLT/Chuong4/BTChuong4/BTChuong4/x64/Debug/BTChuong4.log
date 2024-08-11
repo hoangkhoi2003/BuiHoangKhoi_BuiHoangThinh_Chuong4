@@ -1,4 +1,10 @@
 ﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+<<<<<<< HEAD
   Bai15_Trang30.cpp
 C:\Users\hoang\OneDrive\Máy tính\CloneChuong4\BuiHoangKhoi_BuiHoangThinh_Chuong4\KTLT\Chuong4\BTChuong4\BTChuong4\Bai15_Trang30.cpp(29,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   BTChuong4.vcxproj -> C:\Users\hoang\OneDrive\Máy tính\CloneChuong4\BuiHoangKhoi_BuiHoangThinh_Chuong4\KTLT\Chuong4\BTChuong4\x64\Debug\BTChuong4.exe
+=======
+  Bai14_Trang30.cpp
+C:\Users\hoang\OneDrive\Máy tính\BTChuong4\KTLT\Chuong4\BTChuong4\BTChuong4\Bai14_Trang30.cpp(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  BTChuong4.vcxproj -> C:\Users\hoang\OneDrive\Máy tính\BTChuong4\KTLT\Chuong4\BTChuong4\x64\Debug\BTChuong4.exe
+>>>>>>> 926a4237ea004ad151da13268b9fa28ff08912c9
