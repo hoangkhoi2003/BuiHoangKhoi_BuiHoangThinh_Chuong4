@@ -27,7 +27,11 @@
     <ClCompile Include="Bai13_Trang30.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Bai14_Trang30.cpp">
+=======
+    <ClCompile Include="Bai2-8_Trang28.cpp">
+>>>>>>> 87c1c6c9c9c2f83cd9f77e0de60b3c7c4764709a
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
